@@ -1,4 +1,4 @@
-# ### Bienvenue dans le blog du système de reporting Jekyll-now.
+# ### Bienvenue dans le blog du système de reporting Jasper
 
 ### Présentation 
 
