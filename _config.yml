@@ -1,0 +1,8 @@
+title: Blog-Reporting ( Jekyll-now )
+description: Construire un Blog Jekyll en quelques minutes, sans utilisation de la ligne de commandes .
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
