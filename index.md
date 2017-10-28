@@ -22,7 +22,7 @@ Ce système se compose de plusieurs briques :
                 # une application pour la conception des rapports 
                       et leur publication sur le serveur
 
-   ## Un poste utilisateur disposant d'un navigateur internet 
+   ## Un ou plusieurs postes utilisateur disposant d'un navigateur internet 
                       ( Chrome ou Firefox ) qui permet :
 
                 # un accès aux rapports du serveur en fonction des autorisations
