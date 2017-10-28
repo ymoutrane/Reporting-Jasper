@@ -32,7 +32,7 @@ Ce système se compose de plusieurs briques :
                       ( Word, Excel, Pdf, Power Point ... ) 
 
 
-### Auteurs et collaborateurs
+### Auteurs et collaborateurs 
 
 
 ### Support ou contacter
